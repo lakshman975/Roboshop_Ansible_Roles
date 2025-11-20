@@ -1,0 +1,22 @@
+MONGODB_HOST: mongodb.haripalepu.cloud
+
+CATALOGUE_HOST: catalogue.haripalepu.cloud
+
+WEB_HOST: haripalepu.cloud
+
+REDIS_HOST: redis.haripalepu.cloud
+
+USER_HOST: user.haripalepu.cloud
+
+CART_HOST: cart.haripalepu.cloud
+
+RABBITMQ_HOST: rabbitmq.haripalepu.cloud
+
+MYSQL_HOST: mysql.haripalepu.cloud
+
+PAYMENT_HOST: payment.haripalepu.cloud
+
+SHIPPING_HOST: shipping.haripalepu.cloud
+
+DISPATCH: dispatch.haripalepu.cloud
+
